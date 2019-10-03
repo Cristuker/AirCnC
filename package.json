@@ -1,0 +1,20 @@
+{
+  "name": "aircnc",
+  "version": "1.0.0",
+  "description": "Projeto Omnistack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Cristuker/AirCnC.git",
+  "keywords": [],
+  "author": "Cristian <cristian123105@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristuker/AirCnC/issues"
+  },
+  "homepage": "https://github.com/Cristuker/AirCnC#readme",
+  "dependencies": {
+    "create-react-app": "^3.2.0"
+  }
+}
