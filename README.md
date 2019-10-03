@@ -1,4 +1,4 @@
 # AirCnC
-Projeto omnistack
+Projeto Omnistack
 
 API Rest - NodeJS
