@@ -60,9 +60,12 @@ const styles = StyleSheet.create({
     },
     list:{
         paddingHorizontal:20,
+        marginBottom: 30,
     },
     listItem:{
         marginRight:15,
+    
+        
     },
     bold:{
         fontWeight: 'bold',
