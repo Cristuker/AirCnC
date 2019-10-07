@@ -14,7 +14,8 @@ No frontend foi usado ReactJS,Mobile em React Native e o backend em NodeJS e foi
 ### Lista de Spots
 
 ![Spots Web](/images/list-web.png) 
-![Spots Mobile](/images/List-mobile.jpeg | width=48)
+
+<img src="./images/List-mobile.jpeg" width="500">
 
 ### Solicitação de reserva 
 
