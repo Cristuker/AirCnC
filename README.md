@@ -16,7 +16,6 @@ Para instalar todas as dependências basta apenas dar o comando  `npm install`
 ## Login 
 
 ![Login Web](/images/login-web.png) 
-
 ![Login Mobile](/images/login-mobile-new.jpeg)
 
 ## Lista de Spots
